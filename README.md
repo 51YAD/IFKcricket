@@ -5,6 +5,8 @@ Originally a simple group management bot with multiple admin features, it has ev
 simple to use.
 
 Can be found on telegram as [TBK ADMIN BOT](https://t.me/Thalapathynanbanbot).
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anandvfc/TBK-ADMIN-BOT)
+
 
 Marie and I are moderating a [support group](https://t.me/KeralaBots), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
