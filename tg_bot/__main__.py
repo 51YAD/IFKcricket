@@ -19,20 +19,21 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """ 
-ഹായ് {}, എന്റെ പേര് {}! ഞാൻ [ഇദ്ദേഹം](tg://user?id={}) നോക്കി നടത്തുന്ന ഒരു അടിപൊളി അഡ്മിൻ ബോട്ടാണ്
-എന്നെ നിർമ്മിച്ചിരിക്കുന്നത് python3 യിൽ python-telegram-bot ലൈബ്രറി ഉപയോഗിച്ചാണ്. ഞാൻ പൂർണ്ണമായിട്ടും ഓപ്പൺസോഴ്സ്ഡ് അല്ല. എന്റെ കോഡ് കിട്ടുനാതിനായ്  [Contact my Programmer](https://t.me/Anand_VFC)
+ഹായ് {}, എന്റെ പേര് {}! ഞാൻ [ഇദ്ദേഹം](tg://user?id={}) നോക്കി നടത്തുന്ന ഒരു അടിപൊളി അഡ്മിൻ ബോട്ടാണ്... 
+എന്നെ നിർമ്മിച്ചിരിക്കുന്നത് python3 യിൽ python-telegram-bot ലൈബ്രറി ഉപയോഗിച്ചാണ്.
+ഞാൻ പൂർണ്ണമായിട്ടും ഓപ്പൺസോഴ്സ്ഡ് അല്ല. 
 ലഭ്യമായ commandകൾക്ക്  /help എന്ന്  ടൈപ്പ് ചെയ്യൂ....
-I am only made for [TFK Official Group](https://t.me/ThalapathyFansKerala_TFK)
 
 
-Using standard [Ann](http://telegram.dog/MissAnn_Bot) is always gonna be easier.
+
+
 Perks:
 - latest features
 - it's free
 - biggest list of users for any /info commands
 - the database will always be correctly formatted
-- bugs will always be fixed ASAP
-- no need to maintain anything yourself
+
+
 
 Also, no support can be given for any [clones](https://telegram.dog/MidukkiBot); source might be changed and that's not [my](https://telegram.dog/Anand_VFC) problem.
 **Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
