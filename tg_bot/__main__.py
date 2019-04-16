@@ -24,21 +24,14 @@ PM_START_TEXT = """
 ഞാൻ പൂർണ്ണമായിട്ടും ഓപ്പൺസോഴ്സ്ഡ് അല്ല. 
 ലഭ്യമായ commandകൾക്ക്  /help എന്ന്  ടൈപ്പ് ചെയ്യൂ....
 
-
-
-
 Perks:
 - latest features
 - it's free
 - biggest list of users for any /info commands
 - the database will always be correctly formatted
 
-
-
-Also, no support can be given for any [clones](https://telegram.dog/MidukkiBot); source might be changed and that's not [my](https://telegram.dog/Anand_VFC) problem.
+Also, no support can be given for any clones; source might be changed and that's not [my](https://telegram.dog/Anand_VFC) problem.
 **Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
-
-If you're enjoying using me, and/or would like to help me survive in the wild, hit /donate to help fund/upgrade my VPS! 
 """
 
 HELP_STRINGS = """
