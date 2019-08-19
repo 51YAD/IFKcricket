@@ -18,18 +18,12 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """ 
-ഹായ് Anand, എന്റെ പേര് AnGeL! ഞാൻ ഇദ്ദേഹം നോക്കി നടത്തുന്ന ഒരു അടിപൊളി അഡ്മിൻ ബോട്ടാണ്... 
-എന്നെ നിർമ്മിച്ചിരിക്കുന്നത് python3 യിൽ python-telegram-bot ലൈബ്രറി ഉപയോഗിച്ചാണ്.
-ഞാൻ പൂർണ്ണമായിട്ടും ഓപ്പൺസോഴ്സ്ഡ് അല്ല. 
-ലഭ്യമായ commandകൾക്ക്  /help എന്ന്  ടൈപ്പ് ചെയ്യൂ....
-
-Perks:
-- latest features
-- it's free
-- biggest list of users for any /info commands
-- the database will always be correctly formatted
-Source might be changed and that's not my (https://telegram.dog/Anand_VFC) problem; Also no support can be given to [clones](https://t.me/SpecoSpecialistBot)
-Keep in mind that any changes you DO do to the source have to be on github, as per the license.
+Hi {}, This is the Group manager bot of Manjappada Telegram Group
+The Manjappada Fans Group are the most Active & biggest fan group of KBFC Awarded As the Best Fans Of The Year  2014 by Indian Sports Honour 🏆 
+Established: 28 May 2014
+Group Manager bot maintained by @SlYAD 
+v2.0
+Manjappada official Telegram t.me/KBFCManjappada
 """
 
 HELP_STRINGS = """
@@ -51,12 +45,9 @@ And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nഈ പറഞ്ഞിരിക്കുന്ന commandകൾ എല്ലാം  / അല്ലെങ്കിൽ ! വെച്ച് ഉപയോഗിക്കാവുന്നതാണ്...\n")
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-It took lots of work for [my creator](t.me/SonOfLars) to get me to where I am now, and every donation helps \
-motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
-(see his bio!). He's just a poor student, so every little helps!
-There are two ways of paying him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
-
-IMPORTED = {}
+It took lots of work for [my creator](t.me/SlYAD)
+"""
+IMPORTED = 
 MIGRATEABLE = []
 HELPABLE = {}
 STATS = []
